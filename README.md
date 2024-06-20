@@ -25,6 +25,6 @@ This part of the project deals with estimating and compensating for the CFO to e
 
 3. To run part 1 on the example matlab data file provided (prob2.mat)
 - load('prob2.mat');
-- detected_message = q2p1(y);
+- detected_message = q2p1(x);
 - disp(detected_message);
 
