@@ -16,12 +16,12 @@ This part of the project deals with estimating and compensating for the CFO to e
 ## Usage:
 
 1. Clone the repository:
-   git clone https://github.com/anupama1412/dsp_project.git
-   cd digital_communication_project
+   -git clone https://github.com/anupama1412/dsp_project.git
+   -cd digital_communication_project
 
 2. MATLAB Files:
-q2p1.m: Contains the implementation for Part 1.
-q2p2.m: Contains the implementation for Part 2.
+-q2p1.m: Contains the implementation for Part 1.
+-q2p2.m: Contains the implementation for Part 2.
 
 3. To run part 1 on the example matlab data file provided (prob2.mat)
   % Load the data
